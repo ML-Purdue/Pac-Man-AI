@@ -1,7 +1,7 @@
 # Pac-Man-AI
 This project is taken from Berkeley's CS188 class. You can find more information about it [here](http://ai.berkeley.edu/project_overview.html).
 
-Slides on Uniform Cost Search can be found [here] (https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1LS2_Twa4h0xNbTRw2fg5kAEaHMi79CjRidCXKhlYfx8%2Fedit%3Fusp%3Dsharing&h=ATPs2ttj-OFBOoGqcLMYoLo8pI0Dtr7tZ3eCc-3_s_Grc89aABnKfTJjsyX_6CAXDOt2irS7iqyVLzvE5iF6AlnSDuYG8uGrrPj0VwPrCYGR1RrFyxGtV5XTsCuX5vMFFyMWJHZ4ZphGuQ)
+Slides on Uniform Cost Search can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1LS2_Twa4h0xNbTRw2fg5kAEaHMi79CjRidCXKhlYfx8%2Fedit%3Fusp%3Dsharing&h=ATPs2ttj-OFBOoGqcLMYoLo8pI0Dtr7tZ3eCc-3_s_Grc89aABnKfTJjsyX_6CAXDOt2irS7iqyVLzvE5iF6AlnSDuYG8uGrrPj0VwPrCYGR1RrFyxGtV5XTsCuX5vMFFyMWJHZ4ZphGuQ).
 
 ```
 Search
