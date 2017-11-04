@@ -4,6 +4,10 @@ This project is taken from Berkeley's CS188 class. You can find more information
 Slides on Uniform Cost Search can be found [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1LS2_Twa4h0xNbTRw2fg5kAEaHMi79CjRidCXKhlYfx8%2Fedit%3Fusp%3Dsharing&h=ATPs2ttj-OFBOoGqcLMYoLo8pI0Dtr7tZ3eCc-3_s_Grc89aABnKfTJjsyX_6CAXDOt2irS7iqyVLzvE5iF6AlnSDuYG8uGrrPj0VwPrCYGR1RrFyxGtV5XTsCuX5vMFFyMWJHZ4ZphGuQ).
 
 Slides on A* can be found [here](https://docs.google.com/presentation/d/1aNpwBkHV2YU0g_PDH1Msqg_fs1AwmOp0QIXnOJANgmM/edit?usp=sharing)
+
+Slides on MiniMax can be found [here](https://docs.google.com/presentation/d/1rytUj8KX6VS1dtYSCM9JOWBLQWFK-GF5yfmocGmXNT0/edit#slide=id.p)
+
+Slides on Alpha-Beta Pruning can be found [here](https://docs.google.com/presentation/d/1VRX5_HVNtHFApuWscfXN7uZ7udZq8vWyvenLz-gtONw/edit#slide=id.p)
 ```
 Search
 	Implement depth-first, breadth-first, uniform cost, and A* search algorithms. 
